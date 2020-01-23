@@ -48,12 +48,22 @@ margin-left: 7.5vh;
 .iframediv{
    display:block;
    overflow:hidden;
-    width:90vw;
+    width:89vw;
     margin:auto;
     height:40vh;
    background-color: red;
    border:2px solid palegreen;
+
     
+}
+
+.iframetop{
+
+width:89vw;
+height:40vh;
+
+
+
 }
 .buttontext{
 font-family: Arial, Helvetica, sans-serif;
@@ -75,7 +85,7 @@ font-family: 'Abril Fatface', cursive; */
     top:91vh;
     left:33vh;
     z-index: 20;
-    border:red 2px dashed;
+    border:red 4px dashed;
     pointer-events: none;
     box-shadow: black 6px 20px 15px;
     border-radius: 10px;
@@ -119,7 +129,7 @@ font-family: 'Abril Fatface', cursive; */
 #springbackground{
 margin:auto;
 /* left:50vh; */
-    width:88.5vw;
+    width:89.4vw;
     height:390vw;
   
     /* border-radius: 30px; */
@@ -133,7 +143,7 @@ margin:auto;
 #backphoto{
 
 /* display:block; */
-width:89vw;
+width:89.7vw;
 height:390vw;
 
 z-index: 28;
@@ -155,7 +165,7 @@ border:5px dashed yellow;
     position:relative;
 bottom:22vh;
 left:-6vh;
-    width:35vh;
+    width:32vh;
     right:8vh;
 }
 
@@ -166,7 +176,7 @@ left:-6vh;
     align-self: center;
     justify-self: center;
     font-family: 'Lato', sans-serif;
-font-size: 2vh;
+font-size: 1.8vh;
 transform: scale(0.7);
 
 }
@@ -200,14 +210,14 @@ z-index: 20;
 #frame2{
   
     position: absolute;
-    left:80vw;
+    left:60vw;
     top:-5vh;
     /* border:1px solid black; */
     height:100px;
     width:100px;
     z-index: 5;
     animation-name:rotation;
-    animation-duration: 2s;
+    animation-duration: 3s;
     animation-iteration-count: infinite;
 }
     
@@ -623,7 +633,7 @@ top:-18vh;
     animation-iteration-count: infinite;
     animation-fill-mode:both;
     /* animation-timing-function: ease-out; */
-   animation-duration: 1s;
+   animation-duration: 3s;
   
   }
 
@@ -632,28 +642,28 @@ top:-18vh;
     animation-iteration-count: infinite;
     animation-fill-mode:both;
     /* animation-timing-function: ease-out; */
-   animation-duration: 1s;}
+   animation-duration: 4s;}
 
    #frame3:hover {
     animation-name:rotation;
     animation-iteration-count: infinite;
     animation-fill-mode:both;
     /* animation-timing-function: ease-out; */
-   animation-duration: 1s;}
+   animation-duration: 3s;}
 
    #frame4:hover {
     animation-name:rotation;
     animation-iteration-count: infinite;
     animation-fill-mode:both;
     /* animation-timing-function: ease-out; */
-   animation-duration: 1s;}
+   animation-duration: 3s;}
    #frame5:hover {
     animation-name:rotation;
     animation-iteration-count: infinite;
     animation-fill-mode:both;
     /* animation-timing-function: ease-out; */
     
-   animation-duration: 1s;}
+   animation-duration: 4s;}
 
    #frame6:hover {
     animation-name:rotation;
@@ -661,7 +671,7 @@ top:-18vh;
     animation-fill-mode:both;
     /* animation-timing-function: ease-out; */
     
-   animation-duration: 1s;}
+   animation-duration: 3s;}
 
    #frame7:hover {
     animation-name:rotation;
@@ -669,7 +679,7 @@ top:-18vh;
     animation-fill-mode:both;
     /* animation-timing-function: ease-out; */
     
-   animation-duration: 1s;}
+   animation-duration: 3s;}
 
    #frame8:hover {
     animation-name:rotation;
@@ -677,140 +687,140 @@ top:-18vh;
     animation-fill-mode:both;
     /* animation-timing-function: ease-out; */
     
-   animation-duration: 1s;}
+   animation-duration: 3s;}
    #frame9:hover {
     animation-name:rotation;
     animation-iteration-count: infinite;
     animation-fill-mode:both;
     /* animation-timing-function: ease-out; */
     
-   animation-duration: 1s;}
+   animation-duration: 3s;}
    #frame10:hover {
     animation-name:rotation;
     animation-iteration-count: infinite;
     animation-fill-mode:both;
     /* animation-timing-function: ease-out; */
     
-   animation-duration: 1s;}
+   animation-duration: 3s;}
    #frame11:hover {
     animation-name:rotation;
     animation-iteration-count: infinite;
     animation-fill-mode:both;
     /* animation-timing-function: ease-out; */
     
-   animation-duration: 1s;}
+   animation-duration: 3s;}
    #frame12:hover {
     animation-name:rotation;
     animation-iteration-count: infinite;
     animation-fill-mode:both;
     /* animation-timing-function: ease-out; */
     
-   animation-duration: 1s;}
+   animation-duration: 2s;}
    #frame13:hover {
     animation-name:rotation;
     animation-iteration-count: infinite;
     animation-fill-mode:both;
     /* animation-timing-function: ease-out; */
     
-   animation-duration: 1s;}
+   animation-duration: 4s;}
    #frame14:hover {
     animation-name:rotation;
     animation-iteration-count: infinite;
     animation-fill-mode:both;
     /* animation-timing-function: ease-out; */
     
-   animation-duration: 1s;}
+   animation-duration: 3s;}
    #frame15:hover {
     animation-name:rotation;
     animation-iteration-count: infinite;
     animation-fill-mode:both;
     /* animation-timing-function: ease-out; */
     
-   animation-duration: 1s;}
+   animation-duration: 5s;}
    #frame16:hover {
     animation-name:rotation;
     animation-iteration-count: infinite;
     animation-fill-mode:both;
     /* animation-timing-function: ease-out; */
     
-   animation-duration: 1s;}
+   animation-duration: 3s;}
    #frame17:hover {
     animation-name:rotation;
     animation-iteration-count: infinite;
     animation-fill-mode:both;
     /* animation-timing-function: ease-out; */
     
-   animation-duration: 1s;}
+   animation-duration: 2s;}
    #frame18:hover {
     animation-name:rotation;
     animation-iteration-count: infinite;
     animation-fill-mode:both;
     /* animation-timing-function: ease-out; */
     
-   animation-duration: 1s;}
+   animation-duration: 4s;}
    #frame19:hover {
     animation-name:rotation;
     animation-iteration-count: infinite;
     animation-fill-mode:both;
     /* animation-timing-function: ease-out; */
     
-   animation-duration: 1s;}
+   animation-duration: 2s;}
    #frame20:hover {
     animation-name:rotation;
     animation-iteration-count: infinite;
     animation-fill-mode:both;
     /* animation-timing-function: ease-out; */
     
-   animation-duration: 1s;}
+   animation-duration: 3s;}
    #frame21:hover {
     animation-name:rotation;
     animation-iteration-count: infinite;
     animation-fill-mode:both;
     /* animation-timing-function: ease-out; */
     
-   animation-duration: 1s;}
+   animation-duration:2s;}
    #frame22:hover {
     animation-name:rotation;
     animation-iteration-count: infinite;
     animation-fill-mode:both;
     /* animation-timing-function: ease-out; */
     
-   animation-duration: 1s;}
+   animation-duration: 2s;}
    #frame23:hover {
     animation-name:rotation;
     animation-iteration-count: infinite;
     animation-fill-mode:both;
     /* animation-timing-function: ease-out; */
     
-   animation-duration: 1s;}
+   animation-duration: 3s;}
    #frame24:hover {
     animation-name:rotation;
     animation-iteration-count: infinite;
     animation-fill-mode:both;
     /* animation-timing-function: ease-out; */
     
-   animation-duration: 1s;}
+   animation-duration: 2s;}
    #frame25:hover {
     animation-name:rotation;
     animation-iteration-count: infinite;
     animation-fill-mode:both;
     /* animation-timing-function: ease-out; */
     
-   animation-duration: 1s;}
+   animation-duration: 2s;}
    #frame26:hover {
     animation-name:rotation;
     animation-iteration-count: infinite;
     animation-fill-mode:both;
     /* animation-timing-function: ease-out; */
     
-   animation-duration: 1s;}
+   animation-duration: 3s;}
    #frame27:hover {
     animation-name:rotation;
     animation-iteration-count: infinite;
     animation-fill-mode:both;
     /* animation-timing-function: ease-out; */
     
-   animation-duration: 1s;}
+   animation-duration: 3s;}
    #frame28:hover {
     animation-name:rotation;
     animation-iteration-count: infinite;
@@ -824,14 +834,14 @@ top:-18vh;
     animation-fill-mode:both;
     /* animation-timing-function: ease-out; */
     
-   animation-duration: 1s;}
+   animation-duration: 3s;}
    #frame30:hover {
     animation-name:rotation;
     animation-iteration-count: infinite;
     animation-fill-mode:both;
     /* animation-timing-function: ease-out; */
     
-   animation-duration: 1s;}
+   animation-duration: 3s;}
 
 
 
